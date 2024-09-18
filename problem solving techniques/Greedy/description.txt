@@ -1,0 +1,12 @@
+Greedy algorithms are a class of algorithms that make locally optimal choices at each step with the hope of finding a global optimum solution. In these algorithms, decisions are made based on the information available at the current moment without considering the consequences of these decisions in the future. The key idea is to select the best possible choice at each step, leading to a solution that may not always be the most optimal but is often good enough for many problems.
+
+Steps for Creating a Greedy Algorithm
+The steps to define a greedy algorithm are:
+
+Define the problem: Clearly state the problem to be solved and the objective to be optimized.
+Identify the greedy choice: Determine the locally optimal choice at each step based on the current state.
+Make the greedy choice: Select the greedy choice and update the current state.
+Repeat: Continue making greedy choices until a solution is reached.
+
+
+examples: fractional knapsack, dijkstra algorithm, huffmann encoding. 
